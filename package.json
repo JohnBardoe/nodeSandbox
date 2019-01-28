@@ -1,0 +1,14 @@
+{
+  "name": "sandboxnodejs",
+  "version": "1.0.0",
+  "description": "A sandbox for node stuff",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sandbox"
+  ],
+  "author": "AgafTimof",
+  "license": "UNLICENSED"
+}
